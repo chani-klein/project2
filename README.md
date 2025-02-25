@@ -1,4 +1,4 @@
 ###project
 ```c
-printf("hello world");
+printf("hello shif");
 ```
